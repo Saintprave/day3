@@ -9,7 +9,6 @@ import {
   useWriteContract,
 } from 'wagmi';
 import { injected } from 'wagmi/connectors';
-import { parseEther } from 'ethers';
 
 // ==============================
 // 🔹 CONFIG
